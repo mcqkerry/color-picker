@@ -1,0 +1,33 @@
+button {
+  min-width: 3em;
+  min-height: 3em;
+  border-radius: 1.5em;
+}
+
+.mediumturquoise {
+  background-color: mediumturquoise;
+}
+
+.paleturquoise {
+  background-color: paleturquoise;
+}
+
+.mediumaquamarine {
+  background-color: mediumaquamarine;
+}
+
+.darkturquoise {
+  background-color: darkturquoise;
+}
+
+.darkseagreen {
+  background-color: darkseagreen;
+}
+
+.cadetblue {
+  background-color: cadetblue;
+}
+
+.white {
+  background-color: white;
+}
